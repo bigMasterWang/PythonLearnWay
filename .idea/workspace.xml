@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a6640d15-0b0f-4942-8710-595640e5bb3a" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/venv/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="9b057bee-67e4-4334-aeea-f8099b7c4e92" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="y" value="-10" />
+    <option name="width" value="979" />
+    <option name="height" value="1060" />
+  </component>
+  <component name="ProjectId" id="1ewMvV29NwidO00saNnMF7vrDVa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PythonLearnWay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonLearnWay" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="two.files.diff.last.used.file" value="E:/../work/CocosProject/cocosstudio/simulator_mainmenu/simulator_mapinfo.csd" />
+    <property name="two.files.diff.last.used.folder" value="E:/YoungCampusSimulator/client/res/scene/map/h38/saichedao" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\projects\learnBySelf\PythonLearnWay-master\工作收获\singleton" />
+      <recent name="D:\projects\learnBySelf\PythonLearnWay-master\工作收获" />
+      <recent name="D:\projects\learnBySelf\PythonLearnWay-master\工作收获\lru_cache" />
+      <recent name="D:\projects\learnBySelf\PythonLearnWay-master\tools\TurnOnPhysics_LZ" />
+      <recent name="D:\projects\learnBySelf\PythonLearnWay-master\tools\TurnOnPhysics" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projects\learnBySelf\PythonLearnWay-master\tools\TurnOnPhysics_LZ" />
+      <recent name="D:\projects\learnBySelf\PythonLearnWay-master\tools\TurnOnPhysics" />
+      <recent name="D:\projects\learnBySelf\PythonLearnWay-master" />
+      <recent name="D:\projects\learnBySelf\PythonLearnWay-master\tools\add_gis" />
+      <recent name="D:\projects\learnBySelf\PythonLearnWay-master\ProtoBuf" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.testtest">
+    <configuration name="AutoAddRagDoll" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonLearnWay" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools/add_gis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/add_gis/AutoAddRagDoll.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_02 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonLearnWay" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Smoothpython/chapter_21" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Smoothpython/chapter_21/test_02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonLearnWay" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Smoothpython/chapter_20" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Smoothpython/chapter_20/test_03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonLearnWay" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Smoothpython/chapter_21" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Smoothpython/chapter_21/test_04.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testtest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonLearnWay" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testtest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.testtest" />
+        <item itemvalue="Python.AutoAddRagDoll" />
+        <item itemvalue="Python.test_04" />
+        <item itemvalue="Python.test_03" />
+        <item itemvalue="Python.test_02 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6640d15-0b0f-4942-8710-595640e5bb3a" name="Default Changelist" comment="" />
+      <created>1590742646439</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590742646439</updated>
+      <workItem from="1590742648803" duration="16242000" />
+      <workItem from="1590819583313" duration="16447000" />
+      <workItem from="1590904847254" duration="13185000" />
+      <workItem from="1591000040866" duration="1019000" />
+      <workItem from="1591081727186" duration="608000" />
+      <workItem from="1591258299541" duration="5436000" />
+      <workItem from="1595228434897" duration="3413000" />
+      <workItem from="1595291979623" duration="3257000" />
+      <workItem from="1595330591553" duration="1626000" />
+      <workItem from="1596677970504" duration="2801000" />
+      <workItem from="1596695076645" duration="9187000" />
+      <workItem from="1596716830197" duration="602000" />
+      <workItem from="1596782508329" duration="3402000" />
+      <workItem from="1596966626491" duration="7927000" />
+      <workItem from="1597019966534" duration="22000" />
+      <workItem from="1597021920498" duration="4049000" />
+      <workItem from="1597301565117" duration="9028000" />
+      <workItem from="1597310761030" duration="4479000" />
+      <workItem from="1597557257576" duration="10163000" />
+      <workItem from="1597625327871" duration="4576000" />
+      <workItem from="1597663609801" duration="7020000" />
+      <workItem from="1597723101849" duration="2077000" />
+      <workItem from="1597731697703" duration="8308000" />
+      <workItem from="1597761169938" duration="17000" />
+      <workItem from="1597805745976" duration="10293000" />
+      <workItem from="1597829384012" duration="2401000" />
+      <workItem from="1597885312615" duration="9176000" />
+      <workItem from="1597972340789" duration="104000" />
+      <workItem from="1598005687962" duration="618000" />
+      <workItem from="1598074521313" duration="15000" />
+      <workItem from="1598165028461" duration="2082000" />
+      <workItem from="1598171234721" duration="200000" />
+      <workItem from="1598174058899" duration="11000" />
+      <workItem from="1598232001447" duration="2901000" />
+      <workItem from="1598234913386" duration="3716000" />
+      <workItem from="1598239297934" duration="1075000" />
+      <workItem from="1598254732511" duration="9707000" />
+      <workItem from="1598318149799" duration="11237000" />
+      <workItem from="1598348075961" duration="368000" />
+      <workItem from="1598522403896" duration="1422000" />
+      <workItem from="1598682143678" duration="18935000" />
+      <workItem from="1598768215552" duration="13619000" />
+      <workItem from="1598835104636" duration="31000" />
+      <workItem from="1598837540687" duration="6246000" />
+      <workItem from="1598846511355" duration="8158000" />
+      <workItem from="1598868782779" duration="1741000" />
+      <workItem from="1599026345126" duration="6353000" />
+      <workItem from="1599044755123" duration="7441000" />
+      <workItem from="1599095884065" duration="72000" />
+      <workItem from="1599116480491" duration="265000" />
+      <workItem from="1599187605139" duration="1212000" />
+      <workItem from="1599378613365" duration="21000" />
+      <workItem from="1599469965565" duration="5639000" />
+      <workItem from="1599816462084" duration="1570000" />
+      <workItem from="1599976179628" duration="6663000" />
+      <workItem from="1599988474714" duration="1271000" />
+      <workItem from="1600001255309" duration="3268000" />
+      <workItem from="1600046635660" duration="32000" />
+      <workItem from="1600087590379" duration="1709000" />
+      <workItem from="1600132866902" duration="4963000" />
+      <workItem from="1600150604232" duration="4434000" />
+      <workItem from="1600175467907" duration="1254000" />
+      <workItem from="1600219502779" duration="631000" />
+      <workItem from="1600221441995" duration="6940000" />
+      <workItem from="1600347701355" duration="10000" />
+      <workItem from="1600347733580" duration="2611000" />
+      <workItem from="1600392862115" duration="15000" />
+      <workItem from="1600432709817" duration="1186000" />
+      <workItem from="1600494052828" duration="292000" />
+      <workItem from="1602208307938" duration="6510000" />
+      <workItem from="1602309024000" duration="654000" />
+      <workItem from="1603072195078" duration="2535000" />
+      <workItem from="1603108476752" duration="14000" />
+      <workItem from="1603161317286" duration="153000" />
+      <workItem from="1603605884492" duration="125000" />
+      <workItem from="1603607143173" duration="5733000" />
+      <workItem from="1603672953177" duration="17285000" />
+      <workItem from="1603759854006" duration="21069000" />
+      <workItem from="1603846331389" duration="1130000" />
+      <workItem from="1603858061073" duration="1229000" />
+      <workItem from="1603934444631" duration="5527000" />
+      <workItem from="1603950483142" duration="5692000" />
+      <workItem from="1604024766966" duration="1936000" />
+      <workItem from="1604207128820" duration="11169000" />
+      <workItem from="1604368730049" duration="2044000" />
+      <workItem from="1604375435205" duration="437000" />
+      <workItem from="1604375893017" duration="232000" />
+      <workItem from="1604376165511" duration="5231000" />
+      <workItem from="1604488523863" duration="676000" />
+      <workItem from="1604987436547" duration="3220000" />
+      <workItem from="1605086854085" duration="666000" />
+      <workItem from="1605153218935" duration="696000" />
+      <workItem from="1605170155231" duration="365000" />
+      <workItem from="1605511224589" duration="1683000" />
+      <workItem from="1605601487157" duration="3104000" />
+      <workItem from="1605676465888" duration="4563000" />
+      <workItem from="1605767089067" duration="2801000" />
+      <workItem from="1605845183770" duration="2452000" />
+      <workItem from="1606116589754" duration="18000" />
+      <workItem from="1606291027968" duration="1472000" />
+      <workItem from="1606309340634" duration="888000" />
+      <workItem from="1606355754226" duration="26000" />
+      <workItem from="1606464226618" duration="179000" />
+      <workItem from="1606813049586" duration="701000" />
+      <workItem from="1606826627776" duration="119000" />
+      <workItem from="1606963997458" duration="935000" />
+      <workItem from="1607306675251" duration="18000" />
+      <workItem from="1607313317157" duration="565000" />
+      <workItem from="1607395034457" duration="17000" />
+      <workItem from="1607415753136" duration="5130000" />
+      <workItem from="1607564653223" duration="31000" />
+      <workItem from="1607567901869" duration="2121000" />
+      <workItem from="1607670214649" duration="635000" />
+      <workItem from="1607909380084" duration="5804000" />
+      <workItem from="1608026208611" duration="40000" />
+      <workItem from="1608120263026" duration="422000" />
+      <workItem from="1608263462086" duration="619000" />
+      <workItem from="1608530788317" duration="787000" />
+      <workItem from="1608550804425" duration="416000" />
+      <workItem from="1608552025118" duration="4752000" />
+      <workItem from="1608603107453" duration="350000" />
+      <workItem from="1608612063866" duration="640000" />
+      <workItem from="1608629970286" duration="293000" />
+      <workItem from="1608630559266" duration="1704000" />
+      <workItem from="1608685751668" duration="482000" />
+      <workItem from="1608703306448" duration="1395000" />
+      <workItem from="1608774373836" duration="6727000" />
+      <workItem from="1609163579658" duration="600000" />
+      <workItem from="1609241840656" duration="9000" />
+      <workItem from="1609293782243" duration="262000" />
+      <workItem from="1609308248172" duration="2105000" />
+      <workItem from="1609386743630" duration="24000" />
+      <workItem from="1609933162484" duration="12318000" />
+      <workItem from="1609994072078" duration="786000" />
+      <workItem from="1610026679695" duration="1771000" />
+      <workItem from="1610070044927" duration="4127000" />
+      <workItem from="1610165190342" duration="18000" />
+      <workItem from="1610339896783" duration="13074000" />
+      <workItem from="1610416437246" duration="9362000" />
+      <workItem from="1610604469959" duration="30000" />
+      <workItem from="1610605892940" duration="1849000" />
+      <workItem from="1610630667866" duration="3054000" />
+      <workItem from="1610691353551" duration="2590000" />
+      <workItem from="1610937958392" duration="1011000" />
+      <workItem from="1610957211242" duration="640000" />
+      <workItem from="1610975742837" duration="960000" />
+      <workItem from="1611019173411" duration="777000" />
+      <workItem from="1611028159770" duration="679000" />
+      <workItem from="1611150589014" duration="7000" />
+      <workItem from="1611542362778" duration="632000" />
+      <workItem from="1611630137829" duration="117000" />
+      <workItem from="1611728943724" duration="100000" />
+      <workItem from="1611744716589" duration="616000" />
+      <workItem from="1612180770306" duration="1876000" />
+      <workItem from="1612404533309" duration="1897000" />
+      <workItem from="1612496380912" duration="3324000" />
+      <workItem from="1612681763450" duration="294000" />
+      <workItem from="1612682263501" duration="2362000" />
+      <workItem from="1612752137473" duration="4474000" />
+      <workItem from="1613875181905" duration="266000" />
+      <workItem from="1613886954713" duration="15133000" />
+      <workItem from="1613964839339" duration="4283000" />
+      <workItem from="1613982297404" duration="2836000" />
+      <workItem from="1614002841969" duration="651000" />
+      <workItem from="1614046822286" duration="12000" />
+      <workItem from="1614070077747" duration="2187000" />
+      <workItem from="1614133933426" duration="2464000" />
+      <workItem from="1614216170656" duration="5310000" />
+      <workItem from="1614302476027" duration="1220000" />
+      <workItem from="1614565863939" duration="2065000" />
+      <workItem from="1614595794740" duration="1854000" />
+      <workItem from="1614736820904" duration="2126000" />
+      <workItem from="1614752606548" duration="10000" />
+      <workItem from="1615201676372" duration="1864000" />
+      <workItem from="1615257213621" duration="1902000" />
+      <workItem from="1615453081156" duration="28000" />
+      <workItem from="1615795625395" duration="5891000" />
+      <workItem from="1615949551633" duration="1927000" />
+      <workItem from="1616046999070" duration="16348000" />
+      <workItem from="1616116915934" duration="13462000" />
+      <workItem from="1616380705787" duration="2557000" />
+      <workItem from="1616464254357" duration="1942000" />
+      <workItem from="1616558058045" duration="6259000" />
+      <workItem from="1616572864114" duration="756000" />
+      <workItem from="1616638088844" duration="3930000" />
+      <workItem from="1616662967779" duration="3125000" />
+      <workItem from="1616680854913" duration="426000" />
+      <workItem from="1616725335918" duration="4778000" />
+      <workItem from="1616910131539" duration="2532000" />
+      <workItem from="1616999019265" duration="46000" />
+      <workItem from="1616999075487" duration="2918000" />
+      <workItem from="1617067890020" duration="7229000" />
+      <workItem from="1617154447241" duration="4354000" />
+      <workItem from="1617270835693" duration="2560000" />
+      <workItem from="1617334117654" duration="4747000" />
+      <workItem from="1617707193379" duration="4190000" />
+      <workItem from="1617766702942" duration="1818000" />
+      <workItem from="1617844978634" duration="4402000" />
+      <workItem from="1617949043979" duration="1286000" />
+      <workItem from="1618201868221" duration="1612000" />
+      <workItem from="1618207269532" duration="2225000" />
+      <workItem from="1618491216423" duration="5172000" />
+      <workItem from="1618555639390" duration="3733000" />
+      <workItem from="1618639687575" duration="2739000" />
+      <workItem from="1618834562556" duration="1373000" />
+      <workItem from="1619012492985" duration="52000" />
+      <workItem from="1619012556369" duration="4800000" />
+      <workItem from="1619060487665" duration="2578000" />
+      <workItem from="1619145424852" duration="4791000" />
+      <workItem from="1619404609936" duration="2436000" />
+      <workItem from="1619515350854" duration="9132000" />
+      <workItem from="1619576384196" duration="9494000" />
+      <workItem from="1619678781861" duration="59000" />
+      <workItem from="1620297805836" duration="8314000" />
+      <workItem from="1620389362085" duration="1929000" />
+      <workItem from="1620391305817" duration="88000" />
+      <workItem from="1620391403300" duration="4667000" />
+      <workItem from="1620543016297" duration="11340000" />
+      <workItem from="1620610233965" duration="11009000" />
+      <workItem from="1620697828037" duration="12522000" />
+      <workItem from="1620801511210" duration="21170000" />
+      <workItem from="1620874307016" duration="16576000" />
+      <workItem from="1620962852775" duration="1269000" />
+      <workItem from="1621236947624" duration="21000" />
+      <workItem from="1621236979756" duration="8076000" />
+      <workItem from="1621320938629" duration="13148000" />
+      <workItem from="1621505566080" duration="7939000" />
+      <workItem from="1621585471145" duration="4423000" />
+      <workItem from="1621821979362" duration="13296000" />
+      <workItem from="1621941147673" duration="10469000" />
+      <workItem from="1621993529916" duration="8996000" />
+      <workItem from="1622044611281" duration="602000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="602000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="7" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2620" y="305" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616916045802">
+      <screen x="1920" y="-4" width="1920" height="1040" />
+    </state>
+    <state x="700" y="309" key="#com.intellij.fileTypes.FileTypeChooser/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615202266359" />
+    <state x="2620" y="305" key="#com.intellij.fileTypes.FileTypeChooser/1920.-4.1920.1040/0.0.1920.1040@1920.-4.1920.1040" timestamp="1616916045802" />
+    <state x="2498" y="-4" key="#com.intellij.ide.util.MemberChooser.inPresentationMode" timestamp="1621857099287">
+      <screen x="1920" y="-4" width="1920" height="1040" />
+    </state>
+    <state x="2498" y="-4" key="#com.intellij.ide.util.MemberChooser.inPresentationMode/1920.-4.1920.1040/0.0.1920.1040@1920.-4.1920.1040" timestamp="1621857099287" />
+    <state x="2238" y="361" width="964" height="675" key="#xdebugger.evaluate.inPresentationMode" timestamp="1621344062305">
+      <screen x="1920" y="-4" width="1920" height="1040" />
+    </state>
+    <state x="728" y="277" width="964" height="737" key="#xdebugger.evaluate.inPresentationMode/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618834955213" />
+    <state x="2238" y="361" width="964" height="675" key="#xdebugger.evaluate.inPresentationMode/1920.-4.1920.1040/0.0.1920.1040@1920.-4.1920.1040" timestamp="1621344062305" />
+    <state x="1521" y="-12" width="1736" height="856" maximized="true" key="DiffContextDialog" timestamp="1616924989825">
+      <screen x="1920" y="-4" width="1920" height="1040" />
+    </state>
+    <state x="1521" y="-12" width="1736" height="856" maximized="true" key="DiffContextDialog/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1616567241337" />
+    <state x="2030" y="-18" width="1736" height="856" maximized="true" key="DiffContextDialog/1920.-4.1920.1040/0.0.1920.1040@1920.-4.1920.1040" timestamp="1616924989825" />
+    <state x="2191" y="259" key="FileChooserDialogImpl" timestamp="1620397494615">
+      <screen x="1920" y="-4" width="1920" height="1040" />
+    </state>
+    <state x="2545" y="56" key="FileChooserDialogImpl.inPresentationMode" timestamp="1620391499582">
+      <screen x="1920" y="-4" width="1920" height="1040" />
+    </state>
+    <state x="2545" y="56" key="FileChooserDialogImpl.inPresentationMode/1920.-4.1920.1040/0.0.1920.1040@1920.-4.1920.1040" timestamp="1620391499582" />
+    <state x="648" y="260" key="FileChooserDialogImpl/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1616910425448" />
+    <state x="2191" y="259" key="FileChooserDialogImpl/1920.-4.1920.1040/0.0.1920.1040@1920.-4.1920.1040" timestamp="1620397494615" />
+    <state width="1877" height="237" key="GridCell.Tab.0.bottom" timestamp="1622028596489">
+      <screen x="1920" y="-4" width="1920" height="1040" />
+    </state>
+    <state width="1920" height="259" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1621951627086">
+      <screen x="1920" y="-4" width="1920" height="1040" />
+    </state>
+    <state width="1920" height="325" key="GridCell.Tab.0.bottom.inPresentationMode/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1621602237263" />
+    <state width="1920" height="259" key="GridCell.Tab.0.bottom.inPresentationMode/1920.-4.1920.1040/0.0.1920.1040@1920.-4.1920.1040" timestamp="1621951627086" />
+    <state width="937" height="296" key="GridCell.Tab.0.bottom/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1621841421153" />
+    <state width="1877" height="237" key="GridCell.Tab.0.bottom/1920.-4.1920.1040/0.0.1920.1040@1920.-4.1920.1040" timestamp="1622028596489" />
+    <state width="1877" height="237" key="GridCell.Tab.0.center" timestamp="1622028596489">
+      <screen x="1920" y="-4" width="1920" height="1040" />
+    </state>
+    <state width="1920" height="259" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1621951627086">
+      <screen x="1920" y="-4" width="1920" height="1040" />
+    </state>
+    <state width="1920" height="325" key="GridCell.Tab.0.center.inPresentationMode/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1621602237263" />
+    <state width="1920" height="259" key="GridCell.Tab.0.center.inPresentationMode/1920.-4.1920.1040/0.0.1920.1040@1920.-4.1920.1040" timestamp="1621951627086" />
+    <state width="937" height="296" key="GridCell.Tab.0.center/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1621841421153" />
+    <state width="1877" height="237" key="GridCell.Tab.0.center/1920.-4.1920.1040/0.0.1920.1040@1920.-4.1920.1040" timestamp="1622028596489" />
+    <state width="1877" height="237" key="GridCell.Tab.0.left" timestamp="1622028596489">
+      <screen x="1920" y="-4" width="1920" height="1040" />
+    </state>
+    <state width="1920" height="259" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1621951627086">
+      <screen x="1920" y="-4" width="1920" height="1040" />
+    </state>
+    <state width="1920" height="325" key="GridCell.Tab.0.left.inPresentationMode/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1621602237263" />
+    <state width="1920" height="259" key="GridCell.Tab.0.left.inPresentationMode/1920.-4.1920.1040/0.0.1920.1040@1920.-4.1920.1040" timestamp="1621951627086" />
+    <state width="937" height="296" key="GridCell.Tab.0.left/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1621841421153" />
+    <state width="1877" height="237" key="GridCell.Tab.0.left/1920.-4.1920.1040/0.0.1920.1040@1920.-4.1920.1040" timestamp="1622028596489" />
+    <state width="1877" height="237" key="GridCell.Tab.0.right" timestamp="1622028596489">
+      <screen x="1920" y="-4" width="1920" height="1040" />
+    </state>
+    <state width="1920" height="259" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1621951627086">
+      <screen x="1920" y="-4" width="1920" height="1040" />
+    </state>
+    <state width="1920" height="325" key="GridCell.Tab.0.right.inPresentationMode/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1621602237263" />
+    <state width="1920" height="259" key="GridCell.Tab.0.right.inPresentationMode/1920.-4.1920.1040/0.0.1920.1040@1920.-4.1920.1040" timestamp="1621951627086" />
+    <state width="937" height="296" key="GridCell.Tab.0.right/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1621841421153" />
+    <state width="1877" height="237" key="GridCell.Tab.0.right/1920.-4.1920.1040/0.0.1920.1040@1920.-4.1920.1040" timestamp="1622028596489" />
+    <state width="1920" height="566" key="GridCell.Tab.1.bottom" timestamp="1621861305900">
+      <screen x="1920" y="-4" width="1920" height="1040" />
+    </state>
+    <state width="1920" height="566" key="GridCell.Tab.1.bottom.inPresentationMode" timestamp="1621853581113">
+      <screen x="1920" y="-4" width="1920" height="1040" />
+    </state>
+    <state width="1920" height="418" key="GridCell.Tab.1.bottom.inPresentationMode/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618836723705" />
+    <state width="1920" height="566" key="GridCell.Tab.1.bottom.inPresentationMode/1920.-4.1920.1040/0.0.1920.1040@1920.-4.1920.1040" timestamp="1621853581113" />
+    <state width="1877" height="321" key="GridCell.Tab.1.bottom/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1620890938792" />
+    <state width="1920" height="566" key="GridCell.Tab.1.bottom/1920.-4.1920.1040/0.0.1920.1040@1920.-4.1920.1040" timestamp="1621861305900" />
+    <state width="1920" height="566" key="GridCell.Tab.1.center" timestamp="1621861305900">
+      <screen x="1920" y="-4" width="1920" height="1040" />
+    </state>
+    <state width="1920" height="566" key="GridCell.Tab.1.center.inPresentationMode" timestamp="1621853581113">
+      <screen x="1920" y="-4" width="1920" height="1040" />
+    </state>
+    <state width="1920" height="418" key="GridCell.Tab.1.center.inPresentationMode/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618836723704" />
+    <state width="1920" height="566" key="GridCell.Tab.1.center.inPresentationMode/1920.-4.1920.1040/0.0.1920.1040@1920.-4.1920.1040" timestamp="1621853581113" />
+    <state width="1877" height="321" key="GridCell.Tab.1.center/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1620890938792" />
+    <state width="1920" height="566" key="GridCell.Tab.1.center/1920.-4.1920.1040/0.0.1920.1040@1920.-4.1920.1040" timestamp="1621861305900" />
+    <state width="1920" height="566" key="GridCell.Tab.1.left" timestamp="1621861305900">
+      <screen x="1920" y="-4" width="1920" height="1040" />
+    </state>
+    <state width="1920" height="566" key="GridCell.Tab.1.left.inPresentationMode" timestamp="1621853581113">
+      <screen x="1920" y="-4" width="1920" height="1040" />
+    </state>
+    <state width="1920" height="418" key="GridCell.Tab.1.left.inPresentationMode/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618836723704" />
+    <state width="1920" height="566" key="GridCell.Tab.1.left.inPresentationMode/1920.-4.1920.1040/0.0.1920.1040@1920.-4.1920.1040" timestamp="1621853581113" />
+    <state width="1877" height="321" key="GridCell.Tab.1.left/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1620890938792" />
+    <state width="1920" height="566" key="GridCell.Tab.1.left/1920.-4.1920.1040/0.0.1920.1040@1920.-4.1920.1040" timestamp="1621861305900" />
+    <state width="1920" height="566" key="GridCell.Tab.1.right" timestamp="1621861305900">
+      <screen x="1920" y="-4" width="1920" height="1040" />
+    </state>
+    <state width="1920" height="566" key="GridCell.Tab.1.right.inPresentationMode" timestamp="1621853581113">
+      <screen x="1920" y="-4" width="1920" height="1040" />
+    </state>
+    <state width="1920" height="418" key="GridCell.Tab.1.right.inPresentationMode/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618836723704" />
+    <state width="1920" height="566" key="GridCell.Tab.1.right.inPresentationMode/1920.-4.1920.1040/0.0.1920.1040@1920.-4.1920.1040" timestamp="1621853581113" />
+    <state width="1877" height="321" key="GridCell.Tab.1.right/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1620890938792" />
+    <state width="1920" height="566" key="GridCell.Tab.1.right/1920.-4.1920.1040/0.0.1920.1040@1920.-4.1920.1040" timestamp="1621861305900" />
+    <state x="2289" y="160" width="1207" height="711" key="SettingsEditor" timestamp="1621332769257">
+      <screen x="1920" y="-4" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor.inPresentationMode" timestamp="1621345783283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor.inPresentationMode/1920.-4.1920.1040/0.0.1920.1040@1920.-4.1920.1040" timestamp="1621345783283" />
+    <state x="369" y="164" key="SettingsEditor/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1616910431330" />
+    <state x="2289" y="160" width="1207" height="711" key="SettingsEditor/1920.-4.1920.1040/0.0.1920.1040@1920.-4.1920.1040" timestamp="1621332769257" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1618492989459">
+      <screen x="1920" y="-4" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1616119812033" />
+    <state width="498" height="446" key="SwitcherDM/1920.-4.1920.1040/0.0.1920.1040@1920.-4.1920.1040" timestamp="1618492989459" />
+    <state x="2582" y="248" width="596" height="592" key="find.popup" timestamp="1620611613339">
+      <screen x="1920" y="-4" width="1920" height="1040" />
+    </state>
+    <state x="662" y="252" width="596" height="568" key="find.popup/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1617720280943" />
+    <state x="2582" y="248" width="596" height="592" key="find.popup/1920.-4.1920.1040/0.0.1920.1040@1920.-4.1920.1040" timestamp="1620611613339" />
+    <state x="2552" y="223" width="564" height="283" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1620543047433">
+      <screen x="1920" y="-4" width="1920" height="1040" />
+    </state>
+    <state x="2437" y="-4" width="1103" height="798" key="org.intellij.images.editor.actions.BackgroundImageDialog.inPresentationMode" timestamp="1620395298126">
+      <screen x="1920" y="-4" width="1920" height="1040" />
+    </state>
+    <state x="2437" y="-4" width="1103" height="798" key="org.intellij.images.editor.actions.BackgroundImageDialog.inPresentationMode/1920.-4.1920.1040/0.0.1920.1040@1920.-4.1920.1040" timestamp="1620395298126" />
+    <state x="632" y="227" width="1161" height="678" key="org.intellij.images.editor.actions.BackgroundImageDialog/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1616910430398" />
+    <state x="2552" y="223" width="564" height="283" key="org.intellij.images.editor.actions.BackgroundImageDialog/1920.-4.1920.1040/0.0.1920.1040@1920.-4.1920.1040" timestamp="1620543047433" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1619598941267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2205" y="-4" width="1345" height="2556" key="search.everywhere.popup.inPresentationMode" timestamp="1621854286934">
+      <screen x="1920" y="-4" width="1920" height="1040" />
+    </state>
+    <state x="285" y="0" width="1345" height="2556" key="search.everywhere.popup.inPresentationMode/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619015240839" />
+    <state x="2205" y="-4" width="1345" height="2556" key="search.everywhere.popup.inPresentationMode/1920.-4.1920.1040/0.0.1920.1040@1920.-4.1920.1040" timestamp="1621854286934" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619598941267" />
+    <state x="2543" y="221" width="672" height="678" key="search.everywhere.popup/1920.-4.1920.1040/0.0.1920.1040@1920.-4.1920.1040" timestamp="1616146355765" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$TestSelect__1_.coverage" NAME="TestSelect (1) Coverage Results" MODIFIED="1600175505071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smoothpython/socket/Select" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$testtest.coverage" NAME="testtest Coverage Results" MODIFIED="1622012567681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$RoomTime__1_.coverage" NAME="RoomTime (1) Coverage Results" MODIFIED="1605086909472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1597310909113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Serialize" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$ScneToPhysics.coverage" NAME="ScneToPhysics Coverage Results" MODIFIED="1607416997675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay$Bounded_Semaphore.coverage" NAME="Bounded_Semaphore Coverage Results" MODIFIED="1590909983360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day-03" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$GameTime.coverage" NAME="GameTime Coverage Results" MODIFIED="1603680856255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$test_01__3_.coverage" NAME="test_01 (3) Coverage Results" MODIFIED="1620741788522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smoothpython/chapter_15" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay$Event.coverage" NAME="Event Coverage Results" MODIFIED="1590912450191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day-03" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay$synchronization.coverage" NAME="synchronization Coverage Results" MODIFIED="1590848092375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day-03" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$test1__2_.coverage" NAME="test1 (2) Coverage Results" MODIFIED="1596968047403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day-01" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$TurnOnPhysics_ll.coverage" NAME="TurnOnPhysics_ll Coverage Results" MODIFIED="1617280522148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools/TurnOnPhysics" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$test_02__1_.coverage" NAME="test_02 (1) Coverage Results" MODIFIED="1621943562304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smoothpython/chapter_21" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$lambdaTestTwo.coverage" NAME="lambdaTestTwo Coverage Results" MODIFIED="1597626778981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lambda" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1590752408635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DayOne" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1610368186591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smoothpython/chapter_07" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1598234618414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Twisted" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$testClient.coverage" NAME="testClient Coverage Results" MODIFIED="1597805838732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Twisted" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$TestSelect.coverage" NAME="TestSelect Coverage Results" MODIFIED="1600152604776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/socket/Select" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$AutoAddRagDoll__1_.coverage" NAME="AutoAddRagDoll (1) Coverage Results" MODIFIED="1616653944306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools/add_gis" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$test_02.coverage" NAME="test_02 Coverage Results" MODIFIED="1621854358949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smoothpython/chapter_20" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$TestSingleton.coverage" NAME="TestSingleton Coverage Results" MODIFIED="1617893087436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/工作收获/singleton_and_metaclasses" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$test_01.coverage" NAME="test_01 Coverage Results" MODIFIED="1621590135479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smoothpython/chapter_20" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay$AsyncAwait.coverage" NAME="AsyncAwait Coverage Results" MODIFIED="1590845387362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DayTwo" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$TurnOnPhysics_ll__1_.coverage" NAME="TurnOnPhysics_ll (1) Coverage Results" MODIFIED="1617721604911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools/TurnOnPhysics_LZ" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$testtest__1_.coverage" NAME="testtest (1) Coverage Results" MODIFIED="1619404666005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$test_01__2_.coverage" NAME="test_01 (2) Coverage Results" MODIFIED="1620549284511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smoothpython/chapter_12" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$learn_way.coverage" NAME="learn_way Coverage Results" MODIFIED="1617893417417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/工作收获/singleton_and_metaclasses" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$RoomTime.coverage" NAME="RoomTime Coverage Results" MODIFIED="1604385216683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GameTime" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay$coroutine.coverage" NAME="coroutine Coverage Results" MODIFIED="1590846158682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DayTwo" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$AgsToCsv.coverage" NAME="AgsToCsv Coverage Results" MODIFIED="1620886575171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools/ags_to_csv" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$lambdaTest.coverage" NAME="lambdaTest Coverage Results" MODIFIED="1597665403190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lambda" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$SceneToPhysics__1_.coverage" NAME="SceneToPhysics (1) Coverage Results" MODIFIED="1607419235370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1591262545345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smoothpython/Day-01" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay$DaemonThread.coverage" NAME="DaemonThread Coverage Results" MODIFIED="1590906209029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day-03" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1600152605987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/socket" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1597310957796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Serialize" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$TestFunc.coverage" NAME="TestFunc Coverage Results" MODIFIED="1596699760386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LandOwner" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1590825294423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DayOne" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1597732105533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assert" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$test_03.coverage" NAME="test_03 Coverage Results" MODIFIED="1621943738379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smoothpython/chapter_20" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$result.coverage" NAME="result Coverage Results" MODIFIED="1597313028288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Serialize" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$AutoAddGis.coverage" NAME="AutoAddGis Coverage Results" MODIFIED="1616061202932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools/add_gis" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$test_04_02.coverage" NAME="test_04_02 Coverage Results" MODIFIED="1610458193970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smoothpython/chapter_07" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$test_01__1_.coverage" NAME="test_01 (1) Coverage Results" MODIFIED="1621941575367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smoothpython/chapter_21" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$test4__1_.coverage" NAME="test4 (1) Coverage Results" MODIFIED="1597670927720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day-01" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$test_05.coverage" NAME="test_05 Coverage Results" MODIFIED="1620823936888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smoothpython/chapter_16" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$old_test_01.coverage" NAME="old_test_01 Coverage Results" MODIFIED="1609941782210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smoothpython/chapter_06" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay$self_define_threading.coverage" NAME="self_define_threading Coverage Results" MODIFIED="1590905728024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day-03" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$test1__1_.coverage" NAME="test1 (1) Coverage Results" MODIFIED="1597914147706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smoothpython/day02" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$test.coverage" NAME="test Coverage Results" MODIFIED="1612769275545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$AutoAddRagDoll.coverage" NAME="AutoAddRagDoll Coverage Results" MODIFIED="1621996259529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools/add_gis" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$TurnOnPhysics.coverage" NAME="TurnOnPhysics Coverage Results" MODIFIED="1620891159569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools/TurnOnPhysics_LZ" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$Test.coverage" NAME="Test Coverage Results" MODIFIED="1617892261561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/工作收获/singleton" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$test2__1_.coverage" NAME="test2 (1) Coverage Results" MODIFIED="1600257433487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smoothpython/socket" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$02_test1.coverage" NAME="02_test1 Coverage Results" MODIFIED="1604211444339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smoothpython/day02" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1590761801570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DayOne" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay$Condition.coverage" NAME="Condition Coverage Results" MODIFIED="1590917922763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day-03" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$RoomTime2.coverage" NAME="RoomTime2 Coverage Results" MODIFIED="1608530970750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GameTime" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay$test1__1_.coverage" NAME="test1 (1) Coverage Results" MODIFIED="1590754327677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DayOne" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$test_inspect.coverage" NAME="test_inspect Coverage Results" MODIFIED="1609943726434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smoothpython/chapter_06" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1598840096679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smoothpython/Day-01" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay_master$test_04.coverage" NAME="test_04 Coverage Results" MODIFIED="1621951016917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smoothpython/chapter_21" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1590822308869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DayOne" />
+  </component>
+</project>

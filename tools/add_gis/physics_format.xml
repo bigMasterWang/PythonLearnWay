@@ -1,0 +1,14 @@
+	<Physics Version="2">
+		<Actors
+			DriveActorId = "0">
+			<Actor
+				Mass = "100"
+				Rotation = "0,0,0,1"
+				Position = "{}">
+				<Shape
+					Type = "Box"
+					Size = "{}"
+				/>
+			</Actor>
+		</Actors>
+	</Physics>
