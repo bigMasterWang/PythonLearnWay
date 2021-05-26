@@ -4,13 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6640d15-0b0f-4942-8710-595640e5bb3a" name="Default Changelist" comment="" />
+    <list default="true" id="a6640d15-0b0f-4942-8710-595640e5bb3a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_01/test_01.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="541">
+              <caret line="126" column="40" selection-start-line="126" selection-start-column="40" selection-end-line="126" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -23,10 +39,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/大话设计模式/chapter_01/test_01.py" />
+      </list>
+    </option>
+  </component>
   <component name="JupyterTrust" id="9b057bee-67e4-4334-aeea-f8099b7c4e92" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
-    <option name="y" value="-10" />
+    <option name="x" value="12" />
     <option name="width" value="979" />
     <option name="height" value="1060" />
   </component>
@@ -44,6 +66,17 @@
             <path>
               <item name="PythonLearnWay" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonLearnWay" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonLearnWay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonLearnWay" type="462c0819:PsiDirectoryNode" />
+              <item name="大话设计模式" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonLearnWay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonLearnWay" type="462c0819:PsiDirectoryNode" />
+              <item name="大话设计模式" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_01" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -71,7 +104,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
     <property name="two.files.diff.last.used.file" value="E:/../work/CocosProject/cocosstudio/simulator_mainmenu/simulator_mapinfo.csd" />
     <property name="two.files.diff.last.used.folder" value="E:/YoungCampusSimulator/client/res/scene/map/h38/saichedao" />
   </component>
@@ -224,7 +257,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -466,15 +499,16 @@
       <workItem from="1621821979362" duration="13296000" />
       <workItem from="1621941147673" duration="10469000" />
       <workItem from="1621993529916" duration="8996000" />
-      <workItem from="1622044611281" duration="602000" />
+      <workItem from="1622044611281" duration="1464000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="602000" />
+    <option name="totallyTimeSpent" value="1464000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -715,5 +749,14 @@
     <SUITE FILE_PATH="coverage/PythonLearnWay_master$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1598840096679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smoothpython/Day-01" />
     <SUITE FILE_PATH="coverage/PythonLearnWay_master$test_04.coverage" NAME="test_04 Coverage Results" MODIFIED="1621951016917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smoothpython/chapter_21" />
     <SUITE FILE_PATH="coverage/PythonLearnWay$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1590822308869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DayOne" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_01/test_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="126" column="40" selection-start-line="126" selection-start-column="40" selection-end-line="126" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
