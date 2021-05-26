@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6640d15-0b0f-4942-8710-595640e5bb3a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大话设计模式/chapter_02/test_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/大话设计模式/chapter_02/test_01.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,10 +18,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
+        <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_02/test_01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" column="15" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="15" />
+            <state relative-caret-position="743">
+              <caret line="93" column="13" selection-start-line="93" selection-start-column="13" selection-end-line="93" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -42,15 +43,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/大话设计模式/chapter_01/test_01.py" />
-        <option value="$PROJECT_DIR$/大话设计模式/chapter_02/test_01.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/大话设计模式/chapter_02/test_01.py" />
       </list>
     </option>
   </component>
   <component name="JupyterTrust" id="9b057bee-67e4-4334-aeea-f8099b7c4e92" />
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="12" />
-    <option name="width" value="979" />
+    <option name="x" value="11" />
+    <option name="width" value="980" />
     <option name="height" value="1060" />
   </component>
   <component name="ProjectId" id="1ewMvV29NwidO00saNnMF7vrDVa" />
@@ -67,6 +68,23 @@
             <path>
               <item name="PythonLearnWay" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonLearnWay" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonLearnWay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonLearnWay" type="462c0819:PsiDirectoryNode" />
+              <item name="大话设计模式" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonLearnWay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonLearnWay" type="462c0819:PsiDirectoryNode" />
+              <item name="大话设计模式" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonLearnWay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonLearnWay" type="462c0819:PsiDirectoryNode" />
+              <item name="大话设计模式" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_02" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -126,7 +144,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.testtest">
+  <component name="RunManager" selected="Python.test_01">
     <configuration name="AutoAddRagDoll" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearnWay" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,7 +167,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_02 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonLearnWay" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,12 +175,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Smoothpython/chapter_21" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/大话设计模式/chapter_02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Smoothpython/chapter_21/test_02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/大话设计模式/chapter_02/test_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -239,11 +257,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_01" />
         <item itemvalue="Python.testtest" />
         <item itemvalue="Python.AutoAddRagDoll" />
         <item itemvalue="Python.test_04" />
         <item itemvalue="Python.test_03" />
-        <item itemvalue="Python.test_02 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -489,49 +507,27 @@
       <workItem from="1621821979362" duration="13296000" />
       <workItem from="1621941147673" duration="10469000" />
       <workItem from="1621993529916" duration="8996000" />
-      <workItem from="1622044611281" duration="3916000" />
+      <workItem from="1622044611281" duration="4013000" />
+      <workItem from="1622049506518" duration="701000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3916000" />
+    <option name="totallyTimeSpent" value="4714000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1536" height="864" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25325522" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="4" />
-      <window_info anchor="bottom" id="Python Console" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Python Console" order="4" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
       <window_info anchor="bottom" id="Run" order="8" />
@@ -540,8 +536,31 @@
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="12" />
       <window_info anchor="right" id="Database" order="0" />
-      <window_info anchor="right" id="SciView" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="SciView" order="2" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2533512" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Python Console" order="4" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="SciView" order="2" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
     </layout-to-restore>
@@ -759,29 +778,30 @@
     <SUITE FILE_PATH="coverage/PythonLearnWay_master$RoomTime2.coverage" NAME="RoomTime2 Coverage Results" MODIFIED="1608530970750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GameTime" />
     <SUITE FILE_PATH="coverage/PythonLearnWay$test1__1_.coverage" NAME="test1 (1) Coverage Results" MODIFIED="1590754327677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DayOne" />
     <SUITE FILE_PATH="coverage/PythonLearnWay_master$test_inspect.coverage" NAME="test_inspect Coverage Results" MODIFIED="1609943726434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smoothpython/chapter_06" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay$test_01.coverage" NAME="test_01 Coverage Results" MODIFIED="1622050316995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大话设计模式/chapter_02" />
     <SUITE FILE_PATH="coverage/PythonLearnWay_master$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1598840096679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smoothpython/Day-01" />
     <SUITE FILE_PATH="coverage/PythonLearnWay_master$test_04.coverage" NAME="test_04 Coverage Results" MODIFIED="1621951016917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smoothpython/chapter_21" />
     <SUITE FILE_PATH="coverage/PythonLearnWay$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1590822308869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DayOne" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_01/test_01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-960">
-          <caret line="66" column="14" selection-start-line="66" selection-start-column="11" selection-end-line="66" selection-end-column="14" />
+        <state relative-caret-position="287">
+          <caret line="46" column="3" lean-forward="true" selection-start-line="46" selection-start-column="3" selection-end-line="46" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_02/test_01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="15" />
+        <state relative-caret-position="743">
+          <caret line="93" column="13" selection-start-line="93" selection-start-column="13" selection-end-line="93" selection-end-column="13" />
         </state>
       </provider>
     </entry>
