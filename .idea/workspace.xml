@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6640d15-0b0f-4942-8710-595640e5bb3a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/大话设计模式/chapter_02/test_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/大话设计模式/chapter_02/test_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,10 +17,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_02/test_01.py">
+        <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_05/test_01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="715">
-              <caret line="101" column="35" selection-start-line="101" selection-start-column="35" selection-end-line="101" selection-end-column="35" />
+            <state relative-caret-position="683">
+              <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -44,17 +44,20 @@
         <option value="$PROJECT_DIR$/大话设计模式/chapter_01/test_01.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/大话设计模式/chapter_02/test_01.py" />
+        <option value="$PROJECT_DIR$/大话设计模式/chapter_05/test_01.py" />
       </list>
     </option>
   </component>
   <component name="JupyterTrust" id="9b057bee-67e4-4334-aeea-f8099b7c4e92" />
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="11" />
+    <option name="x" value="10" />
     <option name="width" value="980" />
     <option name="height" value="1060" />
   </component>
   <component name="ProjectId" id="1ewMvV29NwidO00saNnMF7vrDVa" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -84,6 +87,12 @@
               <item name="PythonLearnWay" type="462c0819:PsiDirectoryNode" />
               <item name="大话设计模式" type="462c0819:PsiDirectoryNode" />
               <item name="chapter_02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonLearnWay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonLearnWay" type="462c0819:PsiDirectoryNode" />
+              <item name="大话设计模式" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_05" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -507,19 +516,20 @@
       <workItem from="1621941147673" duration="10469000" />
       <workItem from="1621993529916" duration="8996000" />
       <workItem from="1622044611281" duration="4013000" />
-      <workItem from="1622049506518" duration="1236000" />
+      <workItem from="1622049506518" duration="1415000" />
+      <workItem from="1622126133568" duration="2674000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5249000" />
+    <option name="totallyTimeSpent" value="8102000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1536" height="864" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25325522" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25585938" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -542,7 +552,7 @@
     </layout>
     <layout-to-restore>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2533512" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25603217" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -552,7 +562,7 @@
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Run" order="8" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.3298611" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -790,17 +800,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_01/test_01.py">
+    <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_02/test_01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="46" column="3" lean-forward="true" selection-start-line="46" selection-start-column="3" selection-end-line="46" selection-end-column="33" />
+        <state relative-caret-position="2580">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_02/test_01.py">
+    <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_01/test_01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="715">
-          <caret line="101" column="35" selection-start-line="101" selection-start-column="35" selection-end-line="101" selection-end-column="35" />
+        <state relative-caret-position="1380">
+          <caret line="46" column="3" selection-start-line="46" selection-start-column="3" selection-end-line="46" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_05/test_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="683">
+          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
         </state>
       </provider>
     </entry>
