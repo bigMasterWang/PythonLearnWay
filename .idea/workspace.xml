@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6640d15-0b0f-4942-8710-595640e5bb3a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a6640d15-0b0f-4942-8710-595640e5bb3a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,10 +15,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_05/test_01.py">
+        <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_06/test_02.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="683">
-              <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+            <state relative-caret-position="709">
+              <caret line="52" column="59" selection-start-line="52" selection-start-column="59" selection-end-line="52" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -45,6 +43,8 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/大话设计模式/chapter_02/test_01.py" />
         <option value="$PROJECT_DIR$/大话设计模式/chapter_05/test_01.py" />
+        <option value="$PROJECT_DIR$/大话设计模式/chapter_06/test_01.py" />
+        <option value="$PROJECT_DIR$/大话设计模式/chapter_06/test_02.py" />
       </list>
     </option>
   </component>
@@ -80,19 +80,7 @@
               <item name="PythonLearnWay" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonLearnWay" type="462c0819:PsiDirectoryNode" />
               <item name="大话设计模式" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonLearnWay" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonLearnWay" type="462c0819:PsiDirectoryNode" />
-              <item name="大话设计模式" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonLearnWay" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonLearnWay" type="462c0819:PsiDirectoryNode" />
-              <item name="大话设计模式" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_05" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_06" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -125,19 +113,19 @@
     <property name="two.files.diff.last.used.folder" value="E:/YoungCampusSimulator/client/res/scene/map/h38/saichedao" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\projects\learnBySelf\PythonLearnWay-master\工作收获\singleton" />
-      <recent name="D:\projects\learnBySelf\PythonLearnWay-master\工作收获" />
-      <recent name="D:\projects\learnBySelf\PythonLearnWay-master\工作收获\lru_cache" />
-      <recent name="D:\projects\learnBySelf\PythonLearnWay-master\tools\TurnOnPhysics_LZ" />
-      <recent name="D:\projects\learnBySelf\PythonLearnWay-master\tools\TurnOnPhysics" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\projects\learnBySelf\PythonLearnWay-master\tools\TurnOnPhysics_LZ" />
       <recent name="D:\projects\learnBySelf\PythonLearnWay-master\tools\TurnOnPhysics" />
       <recent name="D:\projects\learnBySelf\PythonLearnWay-master" />
       <recent name="D:\projects\learnBySelf\PythonLearnWay-master\tools\add_gis" />
       <recent name="D:\projects\learnBySelf\PythonLearnWay-master\ProtoBuf" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\projects\learnBySelf\PythonLearnWay-master\工作收获\singleton" />
+      <recent name="D:\projects\learnBySelf\PythonLearnWay-master\工作收获" />
+      <recent name="D:\projects\learnBySelf\PythonLearnWay-master\工作收获\lru_cache" />
+      <recent name="D:\projects\learnBySelf\PythonLearnWay-master\tools\TurnOnPhysics_LZ" />
+      <recent name="D:\projects\learnBySelf\PythonLearnWay-master\tools\TurnOnPhysics" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -152,7 +140,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test_01">
+  <component name="RunManager" selected="Python.test_02">
     <configuration name="AutoAddRagDoll" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearnWay" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,6 +155,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/add_gis/AutoAddRagDoll.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonLearnWay" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/大话设计模式/chapter_06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/大话设计模式/chapter_06/test_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,7 +207,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonLearnWay" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -205,34 +215,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Smoothpython/chapter_20" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/大话设计模式/chapter_06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Smoothpython/chapter_20/test_03.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test_04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonLearnWay" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Smoothpython/chapter_21" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Smoothpython/chapter_21/test_04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/大话设计模式/chapter_06/test_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -265,11 +253,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_02" />
+        <item itemvalue="Python.test_01 (1)" />
         <item itemvalue="Python.test_01" />
         <item itemvalue="Python.testtest" />
         <item itemvalue="Python.AutoAddRagDoll" />
-        <item itemvalue="Python.test_04" />
-        <item itemvalue="Python.test_03" />
       </list>
     </recent_temporary>
   </component>
@@ -517,19 +505,19 @@
       <workItem from="1621993529916" duration="8996000" />
       <workItem from="1622044611281" duration="4013000" />
       <workItem from="1622049506518" duration="1415000" />
-      <workItem from="1622126133568" duration="2674000" />
+      <workItem from="1622126133568" duration="6747000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8102000" />
+    <option name="totallyTimeSpent" value="12175000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1536" height="864" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25585938" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25585938" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -539,8 +527,8 @@
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Run" order="8" weight="0.3298611" />
-      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.4722222" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.5277778" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="12" />
@@ -729,6 +717,7 @@
     <SUITE FILE_PATH="coverage/PythonLearnWay_master$TestSelect__1_.coverage" NAME="TestSelect (1) Coverage Results" MODIFIED="1600175505071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smoothpython/socket/Select" />
     <SUITE FILE_PATH="coverage/PythonLearnWay_master$testtest.coverage" NAME="testtest Coverage Results" MODIFIED="1622012567681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLearnWay_master$RoomTime__1_.coverage" NAME="RoomTime (1) Coverage Results" MODIFIED="1605086909472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay$test_01__1_.coverage" NAME="test_01 (1) Coverage Results" MODIFIED="1622135124135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大话设计模式/chapter_06" />
     <SUITE FILE_PATH="coverage/PythonLearnWay_master$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1597310909113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Serialize" />
     <SUITE FILE_PATH="coverage/PythonLearnWay_master$ScneToPhysics.coverage" NAME="ScneToPhysics Coverage Results" MODIFIED="1607416997675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
     <SUITE FILE_PATH="coverage/PythonLearnWay$Bounded_Semaphore.coverage" NAME="Bounded_Semaphore Coverage Results" MODIFIED="1590909983360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day-03" />
@@ -784,6 +773,7 @@
     <SUITE FILE_PATH="coverage/PythonLearnWay_master$02_test1.coverage" NAME="02_test1 Coverage Results" MODIFIED="1604211444339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smoothpython/day02" />
     <SUITE FILE_PATH="coverage/PythonLearnWay$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1590761801570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DayOne" />
     <SUITE FILE_PATH="coverage/PythonLearnWay$Condition.coverage" NAME="Condition Coverage Results" MODIFIED="1590917922763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day-03" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay$test_02.coverage" NAME="test_02 Coverage Results" MODIFIED="1622136453229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大话设计模式/chapter_06" />
     <SUITE FILE_PATH="coverage/PythonLearnWay_master$RoomTime2.coverage" NAME="RoomTime2 Coverage Results" MODIFIED="1608530970750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GameTime" />
     <SUITE FILE_PATH="coverage/PythonLearnWay$test1__1_.coverage" NAME="test1 (1) Coverage Results" MODIFIED="1590754327677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DayOne" />
     <SUITE FILE_PATH="coverage/PythonLearnWay_master$test_inspect.coverage" NAME="test_inspect Coverage Results" MODIFIED="1609943726434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smoothpython/chapter_06" />
@@ -816,8 +806,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_05/test_01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="683">
-          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+        <state relative-caret-position="390">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_06/test_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1163">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="1146" selection-start-line="1146" selection-end-line="1146" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_06/test_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="709">
+          <caret line="52" column="59" selection-start-line="52" selection-start-column="59" selection-end-line="52" selection-end-column="59" />
         </state>
       </provider>
     </entry>
