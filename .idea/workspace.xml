@@ -5,11 +5,34 @@
   </component>
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/大话设计模式/my_mind.md" line="0" />
+    <bookmark url="file://$PROJECT_DIR$/大话设计模式/chapter_10_模板方法模式/test_01.py" line="19" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6640d15-0b0f-4942-8710-595640e5bb3a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大话设计模式/chapter_01/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/大话设计模式/chapter_01_简单工厂模式/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大话设计模式/chapter_01/test_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/大话设计模式/chapter_01_简单工厂模式/test_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大话设计模式/chapter_02/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/大话设计模式/chapter_02_策略模式/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大话设计模式/chapter_02/test_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/大话设计模式/chapter_02_策略模式/test_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大话设计模式/chapter_03/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/大话设计模式/chapter_03_单一职责原则/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大话设计模式/chapter_03/test_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/大话设计模式/chapter_03_单一职责原则/test_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大话设计模式/chapter_04/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/大话设计模式/chapter_04_开放-封闭原则/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大话设计模式/chapter_04/test_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/大话设计模式/chapter_04_开放-封闭原则/test_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大话设计模式/chapter_05/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/大话设计模式/chapter_05_依赖倒转原则/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大话设计模式/chapter_05/test_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/大话设计模式/chapter_05_依赖倒转原则/test_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大话设计模式/chapter_06/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/大话设计模式/chapter_06_装饰模式/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大话设计模式/chapter_06/java_type/DecoratorClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/大话设计模式/chapter_06_装饰模式/java_type/DecoratorClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大话设计模式/chapter_06/java_type/TargetClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/大话设计模式/chapter_06_装饰模式/java_type/TargetClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大话设计模式/chapter_06/java_type/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/大话设计模式/chapter_06_装饰模式/java_type/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大话设计模式/chapter_06/test_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/大话设计模式/chapter_06_装饰模式/test_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大话设计模式/chapter_06/test_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/大话设计模式/chapter_06_装饰模式/test_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大话设计模式/chapter_07/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/大话设计模式/chapter_07_代理模式/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大话设计模式/chapter_07/test_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/大话设计模式/chapter_07_代理模式/test_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大话设计模式/chapter_08/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/大话设计模式/chapter_08_工厂方法模式/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大话设计模式/chapter_08/test_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/大话设计模式/chapter_08_工厂方法模式/test_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大话设计模式/chapter_09/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/大话设计模式/chapter_09_原型模式/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大话设计模式/chapter_09/test_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/大话设计模式/chapter_09_原型模式/test_01.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,10 +44,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_09/test_01.py">
+        <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_10_模板方法模式/test_01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="44" column="17" lean-forward="true" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+            <state relative-caret-position="476">
+              <caret line="67" column="55" selection-start-line="67" selection-start-column="55" selection-end-line="67" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -61,10 +84,11 @@
         <option value="$PROJECT_DIR$/大话设计模式/my_mind.md" />
         <option value="$PROJECT_DIR$/大话设计模式/chapter_07/test_01.py" />
         <option value="$PROJECT_DIR$/大话设计模式/chapter_08/test_01.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/DiffPythonTwoAndThree/test_01.py" />
         <option value="$PROJECT_DIR$/大话设计模式/chapter_09/test.py" />
         <option value="$PROJECT_DIR$/大话设计模式/chapter_09/test_01.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/大话设计模式/chapter_10_模板方法模式/test_01.py" />
       </list>
     </option>
   </component>
@@ -104,7 +128,13 @@
               <item name="PythonLearnWay" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonLearnWay" type="462c0819:PsiDirectoryNode" />
               <item name="大话设计模式" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_09" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_09_原型模式" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonLearnWay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonLearnWay" type="462c0819:PsiDirectoryNode" />
+              <item name="大话设计模式" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_10_模板方法模式" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -165,7 +195,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test_01 (4)">
+  <component name="RunManager" selected="Python.test_01 (1)">
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonLearnWay" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -188,7 +218,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_01 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test_01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonLearnWay" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -196,12 +226,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/大话设计模式/chapter_07" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/大话设计模式/chapter_10_模板方法模式" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/大话设计模式/chapter_07/test_01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/大话设计模式/chapter_10_模板方法模式/test_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -278,11 +308,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_01 (1)" />
         <item itemvalue="Python.test_01 (4)" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.test_01" />
         <item itemvalue="Python.test_01 (3)" />
-        <item itemvalue="Python.test_01 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -533,12 +563,12 @@
       <workItem from="1622126133568" duration="7959000" />
       <workItem from="1622365731976" duration="1439000" />
       <workItem from="1622367278494" duration="2675000" />
-      <workItem from="1622370044280" duration="8987000" />
+      <workItem from="1622370044280" duration="11667000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26488000" />
+    <option name="totallyTimeSpent" value="29168000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1536" height="864" extended-state="6" />
@@ -748,7 +778,7 @@
     <SUITE FILE_PATH="coverage/PythonLearnWay_master$TestSelect__1_.coverage" NAME="TestSelect (1) Coverage Results" MODIFIED="1600175505071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smoothpython/socket/Select" />
     <SUITE FILE_PATH="coverage/PythonLearnWay_master$testtest.coverage" NAME="testtest Coverage Results" MODIFIED="1622012567681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLearnWay_master$RoomTime__1_.coverage" NAME="RoomTime (1) Coverage Results" MODIFIED="1605086909472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonLearnWay$test_01__1_.coverage" NAME="test_01 (1) Coverage Results" MODIFIED="1622135124135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大话设计模式/chapter_06" />
+    <SUITE FILE_PATH="coverage/PythonLearnWay$test_01__1_.coverage" NAME="test_01 (1) Coverage Results" MODIFIED="1622382665752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大话设计模式/chapter_10_模板方法模式" />
     <SUITE FILE_PATH="coverage/PythonLearnWay_master$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1597310909113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Serialize" />
     <SUITE FILE_PATH="coverage/PythonLearnWay_master$ScneToPhysics.coverage" NAME="ScneToPhysics Coverage Results" MODIFIED="1607416997675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
     <SUITE FILE_PATH="coverage/PythonLearnWay$Bounded_Semaphore.coverage" NAME="Bounded_Semaphore Coverage Results" MODIFIED="1590909983360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day-03" />
@@ -818,20 +848,6 @@
     <SUITE FILE_PATH="coverage/PythonLearnWay$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1590822308869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DayOne" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_05/test_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_06/test_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1163">
-          <caret line="96" selection-start-line="96" selection-end-line="96" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="172">
@@ -839,21 +855,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_04/test_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_03/test_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_06/test_02.py">
+    <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_06_装饰模式/test_02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
@@ -901,38 +903,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_01/test_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1327">
-          <caret line="38" column="24" lean-forward="true" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_02/__init__.py">
+    <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_02_策略模式/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_07/test_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_08/test_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="75" column="31" lean-forward="true" selection-start-line="75" selection-start-column="31" selection-end-line="75" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/大话设计模式/my_mind.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
@@ -943,13 +917,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
           <caret line="673" column="9" lean-forward="true" selection-start-line="673" selection-start-column="9" selection-end-line="673" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_02/test_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
@@ -967,10 +934,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_09/test_01.py">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="44" column="17" lean-forward="true" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+        <state relative-caret-position="270">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_08_工厂方法模式/test_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_07_代理模式/test_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_06_装饰模式/test_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_05_依赖倒转原则/test_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_04_开放-封闭原则/test_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_03_单一职责原则/test_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_02_策略模式/test_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_01_简单工厂模式/test_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-210">
+          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_09_原型模式/test_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/大话设计模式/chapter_10_模板方法模式/test_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="67" column="55" selection-start-line="67" selection-start-column="55" selection-end-line="67" selection-end-column="55" />
         </state>
       </provider>
     </entry>
