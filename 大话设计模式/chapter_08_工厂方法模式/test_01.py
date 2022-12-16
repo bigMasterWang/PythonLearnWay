@@ -78,6 +78,15 @@ class DivFactory(BaseFactory):
 
 
 # 反射可以解决分支判断的问题？？？
+"""
+operattion_dict = {
+	'+': AddFactory,
+	'-': SubFactory,
+	'*': MulFactory,
+	'/': DivFactory,
+}
+factory = operation_dict[operation]()
+"""
 if __name__ == '__main__':
 	number_a = int(input('please input a\n'))
 	number_b = int(input('please input b\n'))
