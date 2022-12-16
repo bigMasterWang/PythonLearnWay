@@ -33,7 +33,7 @@ class Composite(Component):
 		self.children.add(_component)
 
 	def remove(self, _component):
-		self.children.add(_component)
+		self.children.remove(_component)
 
 	def display(self, dep):
 		print('\t' * dep, self.name)
